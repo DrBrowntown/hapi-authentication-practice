@@ -1,2 +1,2 @@
 # authenticationprac
-An example of authentication 
+An example of authentication
